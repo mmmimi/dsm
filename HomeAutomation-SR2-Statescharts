@@ -30,7 +30,7 @@
         <mxCell id="66eWYTRfGqBNhTe94YPb-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="382b91b5511bd0f7-5" target="66eWYTRfGqBNhTe94YPb-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="382b91b5511bd0f7-5" value="access denied" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="382b91b5511bd0f7-5" value="denying&lt;div&gt;access&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="445" y="260" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66eWYTRfGqBNhTe94YPb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="382b91b5511bd0f7-6">
@@ -73,13 +73,13 @@
         <mxCell id="66eWYTRfGqBNhTe94YPb-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="66eWYTRfGqBNhTe94YPb-100" target="382b91b5511bd0f7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="66eWYTRfGqBNhTe94YPb-100" value="Monitoring and Logging" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="66eWYTRfGqBNhTe94YPb-100" value="monitoring &amp;amp; logging" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="370" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66eWYTRfGqBNhTe94YPb-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="66eWYTRfGqBNhTe94YPb-16" target="66eWYTRfGqBNhTe94YPb-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="382b91b5511bd0f7-7" value="validate" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="382b91b5511bd0f7-7" value="validating ID" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66eWYTRfGqBNhTe94YPb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="66eWYTRfGqBNhTe94YPb-13" target="382b91b5511bd0f7-7">
@@ -91,13 +91,13 @@
         <mxCell id="66eWYTRfGqBNhTe94YPb-13" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66eWYTRfGqBNhTe94YPb-2" value="access granted" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="66eWYTRfGqBNhTe94YPb-2" value="granting&lt;div&gt;access&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="250" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66eWYTRfGqBNhTe94YPb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="66eWYTRfGqBNhTe94YPb-2" target="66eWYTRfGqBNhTe94YPb-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="66eWYTRfGqBNhTe94YPb-3" value="unlock&lt;div&gt;door&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="66eWYTRfGqBNhTe94YPb-3" value="unlocking&lt;div&gt;door&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="355" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66eWYTRfGqBNhTe94YPb-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="66eWYTRfGqBNhTe94YPb-3" target="66eWYTRfGqBNhTe94YPb-16">
@@ -108,7 +108,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="66eWYTRfGqBNhTe94YPb-16" value="lock door" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;rounded=1;arcSize=24;shadow=0;comic=0;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="66eWYTRfGqBNhTe94YPb-16" value="locking&lt;div&gt;door&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;rounded=1;arcSize=24;shadow=0;comic=0;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="591.25" y="460" width="77.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="66eWYTRfGqBNhTe94YPb-110" value="Active" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
@@ -164,7 +164,7 @@
         <mxCell id="66eWYTRfGqBNhTe94YPb-140" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="510" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="66eWYTRfGqBNhTe94YPb-141" value="activate Alarm" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="66eWYTRfGqBNhTe94YPb-141" value="activating Alarm" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
